@@ -1,9 +1,11 @@
 # LORADESKLamp
 A LORA DeskLamp that measures your Air Quality
+
 Please see https://hackaday.io/project/180792-loralamp-airquality for further details
 
 
-This sketch is a DEMO Sketch for LoRaLamp AIRQuality published on Hackaday.io(https://hackaday.io/project/180792-loralamp-airquality)
+This files are additional Material LoRaLamp AIRQuality project published on Hackaday.io
+(https://hackaday.io/project/180792-loralamp-airquality)
  
  
  
@@ -116,8 +118,8 @@ Advanced:
 
 Advanced Phase 2:
 - Set the Timerlength via MQTT [Not done yet]
-- Detect Bluetooth Devices[needs to be implemented to this sketch]
-- Transmit Data over LORA [OK but not yet implemented to this sketch]
+- Detect Bluetooth Devices[needs to be merged to this sketch]
+- Transmit Data over LORA [OK but needs to be merged to this sketch]
 
   LORA:
   - Trasnmit Data if LED is switched ON/OFF= PORT1
