@@ -7,7 +7,7 @@ Please see https://hackaday.io/project/180792-loralamp-airquality for further de
 This files are additional Material LoRaLamp AIRQuality project published on Hackaday.io
 (https://hackaday.io/project/180792-loralamp-airquality)
  
- 
+ For usage with Arduino ESP32 V2.0 consider this link: .. otherwise it won't compile: https://github.com/mcci-catena/arduino-lmic/issues/714
  
  WARNINGS
  1. Before you compile please ensure you modify all your credentials and used sensors in "credentials.h" which have been marked REPLACEMEUSER
